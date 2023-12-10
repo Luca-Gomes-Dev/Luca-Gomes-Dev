@@ -2,6 +2,7 @@
 
 <p align="left"> 
  Oi, me chamo Luiz Carlos (Luca) atualmente em transição de carreira, estudando e aprendendo Python e Analise de dados. 
+ 
  Hard Skills : Portugol|Python|Python Aplicado a Dados|Banco de Dados MySQL|Banco de Dados MongoDB|Introdução a Engenharia de Dados na Prática|
  |Introdução a Big Data|Analise e Visialização de Dados|Negociação e Tomada de Decisão|HTML|CSS|Javascript|Nodejs|Typescript|React|Marketing Pessoal
 
@@ -21,7 +22,7 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[LINK-DO-SEU-GMAIL](https://mail.google.com/mail/?tab=rm&ogbl)" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(https://mail.google.com/mail/?tab=rm&ogbl)" alt="Gmail"/></a>
 
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" alt="LinkedIn"/></a>
