@@ -1,16 +1,35 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Luca-Gomes-Dev/Luca-Gomes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+ Oi, me chamo Luiz Carlos (Luca) atualmente em transição de carreira, estudando e aprendendo Python e Analise de dados. 
+ Hard Skills : Portugol|Python|Python Aplicado a Dados|Banco de Dados MySQL|Banco de Dados MongoDB|Introdução a Engenharia de Dados na Prática|
+ |Introdução a Big Data|Analise e Visialização de Dados|Negociação e Tomada de Decisão|HTML|CSS|Javascript|Nodejs|Typescript|React|Marketing Pessoal
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Linguagens: **Python, Javascript.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Pandas - Numpy - Spark - Kafka - plotly - Streamlit - Seaborn - Loker Studio.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[LINK-DO-SEU-GMAIL](https://mail.google.com/mail/?tab=rm&ogbl)" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" alt="LinkedIn"/></a>
+
+  
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/luiz.gomes.3532" alt="Facebook"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
