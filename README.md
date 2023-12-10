@@ -6,6 +6,7 @@
  Hard Skills : Portugol | Python | Python Aplicado a Dados | Banco de Dados MySQL | Banco de Dados MongoDB | Introdução a Engenharia de Dados na Prática|
  |Introdução a Big Data | Analise e Visialização de Dados | Negociação e Tomada de Decisão | HTML | CSS | Javascript | Nodejs | Typescript | React | Marketing Pessoal
 
+
 </p>
 
 <p align="left">
@@ -34,3 +35,5 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+
