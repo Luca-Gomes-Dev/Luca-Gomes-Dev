@@ -14,7 +14,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Pandas - Numpy - Spark - Kafka - plotly - Streamlit - Seaborn - Loker Studio.**
+  💼 Ferramentas: **Pandas - Numpy - Spark - Kafka - plotly - Streamlit 
+     Seaborn - Loker Studio.**
 </p>
 
 <p align="left">
