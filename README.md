@@ -22,8 +22,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(https://mail.google.com/mail/?tab=rm&ogbl)" alt="Gmail"/></a>
+  <a href="#" title="GitHub">
+  <img src="c:\luca\pictures\screenshots\logoGitHub.png"/></a>
 
   
 
