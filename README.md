@@ -21,11 +21,7 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" title="GitHub">
-  <img src="c:\luca\pictures\screenshots\logoGitHub.png"/></a>
 
-  
 
 <a href= "https://www.linkedin.com/in/luiz-carlos-gomes-032001171/" target="_blank">
                         <button class="profile-button">
