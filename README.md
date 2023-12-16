@@ -25,8 +25,13 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(https://mail.google.com/mail/?tab=rm&ogbl)" alt="Gmail"/></a>
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" alt="LinkedIn"/></a>
+  
+
+<a href= "https://www.linkedin.com/in/luiz-carlos-gomes-032001171/" target="_blank">
+                        <button class="profile-button">
+                            Conhecer <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" alt="LinkedIn"/>            
+                        </button>
+                    </a>
 
   
   <a href="#" title="Facebook">
