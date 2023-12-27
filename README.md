@@ -4,8 +4,9 @@
  Oi, me chamo Luiz Carlos (Luca) atualmente em transição de carreira, estudando e aprendendo Python e Analise de dados. 
  
  Hard Skills : Portugol | Python | Python Aplicado a Dados | Banco de Dados MySQL | Banco de Dados MongoDB | Introdução a Engenharia de Dados na Prática|
- |Introdução a Big Data | Analise e Visialização de Dados | Negociação e Tomada de Decisão | HTML | CSS | Javascript | Nodejs | Typescript | React | Marketing Pessoal
+ |Introdução a Big Data | Analise e Visialização de Dados | Negociação e Tomada de Decisão | HTML | CSS | Javascript | Nodejs | Typescript | React | 
 
+ Soft Skills : Comunicação | Interpessoalidade | Protagonismo | Negociação e Tomada de Decisão | Marketing Pessoal
 
 </p>
 
