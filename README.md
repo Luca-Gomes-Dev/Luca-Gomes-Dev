@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Oi, me chamo Luiz Carlos (Luca) atualmente em transição de carreira, estudando e aprendendo <strong>Python e Analise de dados e Desenvovimento Front End </strong>pelo <strong>Cesar School.</strong> 
+ Oi, me chamo Luiz Carlos (Luca) atualmente em transição de carreira, estudando e aprendendo <strong>Python e Analise de dados e Desenvovimento Front End</strong>pelo <strong>Cesar School.</strong> 
  
  <strong>Hard Skills : Portugol | Python | Python Aplicado a Dados | Banco de Dados MySQL | Banco de Dados MongoDB | Introdução a Engenharia de Dados na Prática|
  |Introdução a Big Data | Analise e Visialização de Dados | HTML | CSS | Javascript | Nodejs | Typescript | React | Vite | Next.Js</strong>
