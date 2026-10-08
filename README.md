@@ -3,8 +3,8 @@
 <p align="left"> 
  Oi, me chamo Luiz Carlos (Luca_Dev) atualmente em transição de carreira, estudando e aprendendo <strong>Python e Analise de dados e Desenvovimento Front End</strong>pelo <strong>Cesar School.</strong> 
  
- <strong>Hard Skills : Portugol | Python | Python Aplicado a Dados | Banco de Dados MySQL | Banco de Dados MongoDB | Introdução a Engenharia de Dados na Prática|
- |Introdução a Big Data | Analise e Visialização de Dados | HTML | CSS | Javascript | Nodejs | Typescript | React | Vite | Next.Js</strong>
+ <strong>Hard Skills: Python | Python Aplicado a Dados | Banco de Dados MySQL | Banco de Dados MongoDB | Introdução a Engenharia de Dados na Prática|
+ |Introdução a Big Data | Analise e Visialização de Dados com Excel, Power BI, Python, Databrinks, AWS | Hard Skills: Python|MySQL|Javascript|Reactjs|nodejs|Typescript HTML | CSS | Javascript | Nodejs | Typescript | React | Vite | Next.Js</strong>
 
  <strong>Soft Skills : Comunicação | Interpessoalidade | Protagonismo | Negociação e Tomada de Decisão | Marketing Pessoal</strong>
 
